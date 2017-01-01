@@ -1,2 +1,2 @@
 //index.js
-console.log("hello, index.js");
+require('./app/index')
